@@ -1,0 +1,1 @@
+print ("timestamp and sensor reading")
